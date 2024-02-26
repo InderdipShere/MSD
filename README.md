@@ -1,2 +1,2 @@
 # MSD
-Mean square displacement
+Mean square displacement for Lammps and Gromacs, and for cubic box
